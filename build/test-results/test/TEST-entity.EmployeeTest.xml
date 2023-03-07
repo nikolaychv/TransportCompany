@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="entity.EmployeeTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2022-02-01T23:33:44" hostname="DESKTOP-PELJUHB" time="0.035">
+  <properties/>
+  <testcase name="setEmployeeQualification()" classname="entity.EmployeeTest" time="0.014"/>
+  <testcase name="getEmployeeQualification()" classname="entity.EmployeeTest" time="0.0"/>
+  <testcase name="testToString()" classname="entity.EmployeeTest" time="0.01"/>
+  <testcase name="getEmployeeId()" classname="entity.EmployeeTest" time="0.001"/>
+  <testcase name="getEmployeeName()" classname="entity.EmployeeTest" time="0.0"/>
+  <testcase name="setEmployeeSalary()" classname="entity.EmployeeTest" time="0.0"/>
+  <testcase name="setEmployeeId()" classname="entity.EmployeeTest" time="0.0"/>
+  <testcase name="setEmployeeName()" classname="entity.EmployeeTest" time="0.001"/>
+  <testcase name="getEmployeeSalary()" classname="entity.EmployeeTest" time="0.001"/>
+  <testcase name="getEmployeeCompany()" classname="entity.EmployeeTest" time="0.001"/>
+  <testcase name="setEmployeeCompany()" classname="entity.EmployeeTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
